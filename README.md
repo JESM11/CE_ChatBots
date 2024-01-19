@@ -23,3 +23,27 @@ Este es un bot de Telegram que permite a los usuarios descargar videos de YouTub
 ## Nota
 
 Por favor, no abuses de este bot. Úsalo de manera responsable y respeta los derechos de autor de los videos que descargues.
+
+####Bot de discord####
+
+Este es un bot de Discord que interactua y responde mensajes dependiendo del rol que se le de
+
+## Requisitos
+
+- node.js
+- Bibliotecas de js: "dotenv","openia","discord.js"
+
+## Instalación
+
+1.Clona este repositorio en tu máquina local.
+2.Instala las dependencias de Node.js con el comando npm install.
+
+##Uso
+
+1.Crea una aplicación de Discord y un bot en el Portal de desarrolladores de Discord.
+2.Copia el token del bot y pégalo en el archivo .env en la variable BOT_TOKEN.
+3.Obten y copia una key de OpenAI y pégalo en el archivo .env en la variable OPENAI_KEY.
+4.Agrega el bot a tu servidor de Discord.
+5.Inicia el bot con el comando node bot.js.
+
+
