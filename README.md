@@ -38,7 +38,7 @@ Este es un bot de Discord que interactua y responde mensajes dependiendo del rol
 1.Clona este repositorio en tu máquina local.
 2.Instala las dependencias de Node.js con el comando npm install.
 
-##Uso
+## Uso
 
 1.Crea una aplicación de Discord y un bot en el Portal de desarrolladores de Discord.
 2.Copia el token del bot y pégalo en el archivo .env en la variable BOT_TOKEN.
