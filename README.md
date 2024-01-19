@@ -24,7 +24,7 @@ Este es un bot de Telegram que permite a los usuarios descargar videos de YouTub
 
 Por favor, no abuses de este bot. Úsalo de manera responsable y respeta los derechos de autor de los videos que descargues.
 
-####Bot de discord####
+# Bot de discord
 
 Este es un bot de Discord que interactua y responde mensajes dependiendo del rol que se le de
 
