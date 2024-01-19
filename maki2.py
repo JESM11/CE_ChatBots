@@ -2,7 +2,7 @@ import os
 import telebot
 import yt_dlp
 
-bot = telebot.TeleBot("6404421351:AAE_BhZUNcLS3Y3FRhwVfsN7Qsno2IwzuDk")
+bot = telebot.TeleBot("")
 
 ruta = os.getcwd() + "/salida/"
 
